@@ -1,5 +1,6 @@
 # CloudFlare-IP-Check
 A Simple php script that detects if the user is connected to the Server via a Cloudflare Proxy or not.
+Its so simple that its even in one line.
 
 ### How it works
 It simply checks if a Standard CloudFlare header exists.
