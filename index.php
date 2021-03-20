@@ -1,0 +1,1 @@
+<?phpif(isset($_SERVER["HTTP_CF_CONNECTING_IP"])){echo'CloudFlare!';}else{ echo 'Not CloudFlare!';}?>
